@@ -1,0 +1,1 @@
+console.log('hello prime! eating good today, huh?');
